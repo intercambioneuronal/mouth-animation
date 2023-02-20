@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
-
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,7 @@
   },
   "homepage": "https://intercambioneuronal.github.io/mouth-animation/",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "typescript": "^4.9.5"
   }
 }
