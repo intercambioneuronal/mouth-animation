@@ -1,0 +1,181 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1675551444579,
+        "children": [
+          {
+            "key": 1675551617260,
+            "children": [],
+            "todo": {
+              "content": "1 clase/interfaz 1 comportamiento",
+              "id": 1675551617260,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "single responsability",
+          "id": 1675551444579,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1675551473011,
+        "children": [
+          {
+            "key": 1675551669540,
+            "children": [],
+            "todo": {
+              "content": "agregar comportamientos sin modificar solo con implements/extends",
+              "id": 1675551669540,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "open-closed",
+          "id": 1675551473011,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1675551495948,
+        "children": [
+          {
+            "key": 1675551787419,
+            "children": [],
+            "todo": {
+              "content": "pasar clases en parametros mediante interfaces",
+              "id": 1675551787419,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "liskov-substitution",
+          "id": 1675551495948,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1675551519412,
+        "children": [
+          {
+            "key": 1675551890779,
+            "children": [],
+            "todo": {
+              "content": "muchas interfaces pequeñas para cada cosa",
+              "id": 1675551890779,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "interface segregation",
+          "id": 1675551519412,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1675551533788,
+        "children": [
+          {
+            "key": 1675551962731,
+            "children": [],
+            "todo": {
+              "content": "declarar objetos de otras clases para los comportamientos",
+              "id": 1675551962731,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "dependency inversion",
+          "id": 1675551533788,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1675552307152,
+        "children": [
+          {
+            "key": 1675552317445,
+            "children": [
+              {
+                "key": 1675552359941,
+                "children": [],
+                "todo": {
+                  "content": "Modificar el menor numero de archivos, idealmente 1",
+                  "id": 1675552359941,
+                  "level": "default",
+                  "done": false
+                }
+              }
+            ],
+            "todo": {
+              "content": "Ante un cambio",
+              "id": 1675552317445,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1675552427452,
+            "children": [
+              {
+                "key": 1675552443829,
+                "children": [],
+                "todo": {
+                  "content": "Crear una clase/interface, idealmente sólo heredarla/implementarla",
+                  "id": 1675552443829,
+                  "level": "default",
+                  "done": false
+                }
+              }
+            ],
+            "todo": {
+              "content": "Ante un nuevo comportamiento",
+              "id": 1675552427452,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "resumen",
+          "id": 1675552307152,
+          "level": "default",
+          "done": false
+        }
+      }
+    ],
+    "expandKeys": [
+      1675552307152,
+      1675552317445,
+      1675551444579,
+      1675551473011,
+      1675551495948,
+      1675551519412,
+      1675551533788
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "solid",
+    "autoSort": false,
+    "lang": "en"
+  }
+}

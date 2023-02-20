@@ -1,0 +1,77 @@
+[
+    {
+        "keys":["a","e","i"],
+        "xSource":485, "ySource":41, "widthSource": 130, "heightSource": 80,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["b","m","p"],
+        "xSource":645, "ySource":41, "widthSource": 130, "heightSource": 80,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["f","v"],
+        "xSource":805, "ySource":41, "widthSource": 130, "heightSource": 80,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["c","d","g","k","n","r","s","t","x","y","z"],
+        "xSource":485, "ySource":141, "widthSource": 130, "heightSource": 80,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["u"],
+        "xSource":645, "ySource":141, "widthSource": 130, "heightSource": 80,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["ch","j","sh"],
+        "xSource":805, "ySource":141, "widthSource": 130, "heightSource": 80,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["l"],
+        "xSource":485, "ySource":261, "widthSource": 130, "heightSource": 90,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["o"],
+        "xSource":645, "ySource":261, "widthSource": 130, "heightSource": 90,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["q","w"],
+        "xSource":805, "ySource":261, "widthSource": 130, "heightSource": 90,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["th"],
+        "xSource":485, "ySource":391, "widthSource": 130, "heightSource": 110,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["risa"],
+        "xSource":805, "ySource":391, "widthSource": 130, "heightSource": 110,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["mueca1"],
+        "xSource":485, "ySource":531, "widthSource": 130, "heightSource": 65,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["mueca2"],
+        "xSource":645, "ySource":531, "widthSource": 130, "heightSource": 65,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["mueca3"],
+        "xSource":805, "ySource":531, "widthSource": 130, "heightSource": 65,
+        "xDestination":108,"yDestination":265,"widthDestination":91,"heightDestination":56
+    },
+    {
+        "keys":["avatar"],
+        "xSource":90, "ySource":47, "widthSource": 320, "heightSource": 500,
+        "xDestination":0,"yDestination":0,"widthDestination":320,"heightDestination":500
+    }
+]
