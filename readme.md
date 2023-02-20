@@ -5,4 +5,4 @@ A simple mouth animation using canvas.
 - WebApi SpeechSynthesis & canvas
 - sprite image
 ## Preview
-(preview-mouth-animation.png)
+![Preview Image](preview-mouth-animation.png)
