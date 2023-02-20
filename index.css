@@ -1,0 +1,7 @@
+#principal{
+    display:grid;
+    grid-template-columns: 30% 10%;
+}
+#afor{
+    display: none;
+}
