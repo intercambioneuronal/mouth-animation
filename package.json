@@ -4,7 +4,10 @@
   "description": "mouth animation",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
+
   },
   "repository": {
     "type": "git",
@@ -15,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/intercambioneuronal/mouth-animation/issues"
   },
-  "homepage": "https://github.com/intercambioneuronal/mouth-animation#readme",
+  "homepage": "https://intercambioneuronal.github.io/mouth-animation/",
   "devDependencies": {
     "typescript": "^4.9.5"
   }
