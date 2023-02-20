@@ -1,0 +1,22 @@
+{
+  "name": "avatar",
+  "version": "1.0.0",
+  "description": "mouth animation",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intercambioneuronal/mouth-animation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intercambioneuronal/mouth-animation/issues"
+  },
+  "homepage": "https://github.com/intercambioneuronal/mouth-animation#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
